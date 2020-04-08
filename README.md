@@ -1,8 +1,5 @@
 # Introduction
-This is a simple Spark application that analyzes a loan complete at [Lending Club](https://www.lendingclub.com/). 
-Lending club leverages online data to assess risk, determine a credit rating and assign approriate interest rates.
-Qualified applicants will receive offers instantaneously and can evaluate loan options with no impact to their credit score.
-On the other hand, investors can select loans in which to invest and can earn monthly returns.
+This is a simple Spark application that analyzes a loan complete at [Lending Club](https://www.lendingclub.com/). By leveraging user profile (e.g., home ownership, average annual income), the goal is to determine a credit rating for the user so as to assign approriate interest rates based on the user's credit score. The credit rating is mainly assesed by the variable `collection`.
 
 # Components
 ![Flowchart](https://github.com/lullaby1024/Lending_Club/blob/master/lending_club.png)
