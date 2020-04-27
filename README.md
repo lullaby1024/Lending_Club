@@ -1,5 +1,5 @@
 # Introduction
-This is a simple Spark application that analyzes a loan complete at [Lending Club](https://www.lendingclub.com/). By leveraging user profile (e.g., home ownership, average annual income), the goal is to determine a credit rating for the user so as to assign approriate interest rates based on the user's credit score. The credit rating is mainly assesed by the variable `collection`.
+This is a simple Spark application that analyzes a loan complete at [Lending Club](https://www.lendingclub.com/). By leveraging user profiles (e.g., home ownership, average annual income), the goal is to determine a credit rating for the user so as to assign appropriate interest rates based on the user's credit score. The credit rating is mainly assessed by the variable `collection`.
 
 # Components
 ![Flowchart](https://github.com/lullaby1024/Lending_Club/blob/master/lending_club.png)
